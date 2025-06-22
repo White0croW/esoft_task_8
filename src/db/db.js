@@ -92,5 +92,6 @@ module.exports = {
     getTaskById,
     createTask,
     updateTask,
-    deleteTask
+    deleteTask,
+    writeData
 };
